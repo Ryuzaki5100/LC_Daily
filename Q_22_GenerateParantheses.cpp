@@ -20,4 +20,5 @@ vector<string> generateParantheses(int n)
 }
 int main()
 {
+    return 0;
 }
